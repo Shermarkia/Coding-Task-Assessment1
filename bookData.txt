@@ -1,0 +1,4 @@
+Title,Author,Pages,ID,Borrowed
+The Hobbit,J. R. R. Tolkien,310,B001,False
+Pride and Prejudice,Jane Austen,279,B002,True
+Frankenstein,Mary Shelley,280,B003,False
